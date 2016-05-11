@@ -1,8 +1,8 @@
 # BlogsCamp
 
-For Collecting Good Bloggers' Blogs / 收集好博客
+> For Collecting Good Bloggers' Blogs / 收集好博客
 
-> 这里已经有很多了 @ [ITBlogs](https://github.com/csarron/ITBlogs)
+> 其实，这里已经有很多了 @ [ITBlogs](https://github.com/csarron/ITBlogs)
 
 ---
 

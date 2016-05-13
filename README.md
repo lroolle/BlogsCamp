@@ -18,6 +18,8 @@
 
 - [The5fire](http://the5fire.com): Python 后端
 
+- [hhstore's blog](http://www.selfrebuild.net/): 他的 [Links](http://www.selfrebuild.net/links/) 里有很多干货
+
 - [MM](http://papacochon.com/): R
 
 - [Monkey](http://monkey0105.github.io/): R
